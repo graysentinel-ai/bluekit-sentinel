@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/banner.png" alt="BlueKit Sentinel Banner" width="100%" />
+</div>
+
+<br/>
+
 # 🛡️ BlueKit Sentinel v1.0.0
 
 > **Host & Network Recon Correlation Engine**
